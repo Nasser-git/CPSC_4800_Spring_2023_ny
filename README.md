@@ -2,7 +2,6 @@
 For Test
 
 
-# This is a <h1> tag
 ## This is heading 2
 ###### This is heading 6
 
